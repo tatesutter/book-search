@@ -6,13 +6,6 @@ This full-stack application lets users search for books using the Google Books A
 
 ---
 
-## 🔗 Live Links
-
-- 🚀 **Frontend:** https://your-client-url.netlify.app  
-- ⚙️ **Backend (GraphQL):** https://your-server.onrender.com/graphql
-
----
-
 ## ✨ Features
 
 - 🔍 Search for books via the **Google Books API**
